@@ -67,8 +67,10 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 
 <br>
 
+<br>
+
 <div align="center">
 
-💡 <i>Ainda não sei tudo — mas já sei o suficiente para quebrar algumas coisas.</i> 😅
+🔧 <i>Se funcionou, não mexe.</i>
 
 </div>
