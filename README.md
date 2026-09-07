@@ -1,6 +1,8 @@
+# Olá, eu sou Sebastião! 👋
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Sebasti%C3%A3o%21+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" />
 
 </div>
 
