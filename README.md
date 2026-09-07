@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20Sebastião!&fontSize=38&fontColor=fff&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvimento+%2B+Hardware+%2B+Banco+de+Dados;Sempre+aprendendo+coisa+nova" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Sebasti%C3%A3o%21+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" />
 
 </div>
 
@@ -10,29 +8,26 @@
 
 ## 👋 Sobre mim
 
-🎓 Estudante de **Sistemas de Informação** no **IFMG - Campus São João Evangelista**
-💻 Interessado em desenvolvimento de software, hardware e banco de dados
-☕ Café é praticamente parte do currículo
+Sou estudante de Bacharelado em Sistemas de Informação no **IFMG – Campus São João Evangelista**, em Minas Gerais.
 
-Durante a graduação, tive experiências com desenvolvimento web, programação, banco de dados e hardware. Também participei da Empresa Júnior e de projetos de extensão, incluindo atividades relacionadas ao ensino de programação e robótica.
+Durante a graduação, tive contato e experiências com desenvolvimento web, programação, bancos de dados e hardware, além de projetos acadêmicos e de extensão — incluindo atividades relacionadas ao ensino de programação, robótica e a atividades da Empresa Júnior do curso.
 
-Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar o que aprendo em projetos próprios (de preferência sem quebrar tudo no processo).
+Tenho interesse em continuar aprendendo e transformar os conhecimentos adquiridos na graduação em projetos próprios.
 
 <br>
 
 ## 🚀 Atualmente
 
-- 🔭 Trabalhando em projetos próprios pra colocar em prática o que aprendo na faculdade
-- 🌱 Aprendendo mais sobre banco de dados e boas práticas de desenvolvimento
-- 🤖 Já passei por robótica e ensino de programação em projetos de extensão
-- 🏢 Tive experiência na Empresa Júnior do curso
+- 🎓 Cursando Sistemas de Informação no IFMG – Campus São João Evangelista
+- 🌐 Desenvolvendo projetos próprios para colocar em prática o que aprendo
+- ♻️ Já participei do projeto de extensão *"PC Renovado — Inclusão Digital e Reaproveitamento Tecnológico"*
+- 🤖 Tive contato com ensino de programação e robótica em atividades acadêmicas
 - 🎯 Meta: sair da faculdade sabendo mais do que um "Hello World" (spoiler: já sei)
 
 <br>
 
-## 🛠️ Tecnologias
+## 💻 Linguagens
 
-### 📝 Linguagens
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -42,13 +37,19 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### 🗄️ Banco de dados
+<br>
+
+## 🗄️ Banco de dados
+
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### 🧰 Ferramentas
+<br>
+
+## 🧰 Ferramentas
+
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,31 +58,26 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
 
 <br>
 
-## 🏆 Troféus
+## 📌 Projeto em destaque
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tiaozin&theme=radical&no-frame=true&row=1&column=6" />
-</div>
+### 🍰 Confeitaria Açucarada
 
-<br>
+Site desenvolvido para uma confeitaria, utilizando HTML, CSS e JavaScript.
 
-## 📊 Estatísticas
+- Página inicial com seção de ofertas
+- Menu de navegação e cardápio de bolos
+- Layout responsivo para desktop, tablet e celular
+- Efeitos de interação e rolagem com JavaScript
+- Links para contato/redes sociais
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiaozin&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaozin&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiaozin&theme=radical&hide_border=true" />
-</div>
+🔗 **[Ver projeto](https://github.com/Tiaozin/Confeitaria-Acucarada)**
 
 <br>
 
-## 🐍 Atividade recente
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tiaozin/Tiaozin/output/github-contribution-grid-snake.svg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiaozin&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -92,16 +88,4 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
   <a href="https://github.com/Tiaozin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tiaozin&style=for-the-badge&color=8A2BE2&label=Visitas+no+perfil" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
 </div>
