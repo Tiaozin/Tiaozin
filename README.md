@@ -18,6 +18,8 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 - 🌐 Desenvolvendo projetos próprios para colocar em prática o que aprendo
 - 🤖 Tive contato com ensino de programação e robótica em atividades acadêmicas
 - 🎯 Meta: sair da faculdade sabendo mais do que um "Hello World" (spoiler: já sei)
+- 🐛 Corrigindo bugs que eu mesmo criei
+- 🔧 Transformando <code>por que não funciona?</code> em <strong>agora funciona!</strong>
 
 <br>
 
@@ -62,3 +64,11 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 ## 📬 Contato
 
 <div align="center"> <a href="https://github.com/Tiaozin"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sebasti%C3%A3o-marcos-9b2624300/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/tiaoz1n"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
+
+<br>
+
+<div align="center">
+
+💡 <i>Ainda não sei tudo — mas já sei o suficiente para quebrar algumas coisas.</i> 😅
+
+</div>
