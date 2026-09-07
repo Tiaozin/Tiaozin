@@ -74,5 +74,3 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 🔧 <i>Se funcionou, não mexe.</i>
 
 </div>
-
-![Visitas no perfil](https://komarev.com/ghpvc/?username=Tiaozin&style=for-the-badge&color=8A2BE2&label=Visitas+no+perfil)
