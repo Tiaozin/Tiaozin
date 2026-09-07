@@ -20,6 +20,16 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
 
 <br>
 
+## 🚀 Atualmente
+
+- 🔭 Trabalhando em projetos próprios pra colocar em prática o que aprendo na faculdade
+- 🌱 Aprendendo mais sobre banco de dados e boas práticas de desenvolvimento
+- 🤖 Já passei por robótica e ensino de programação em projetos de extensão
+- 🏢 Tive experiência na Empresa Júnior do curso
+- 🎯 Meta: sair da faculdade sabendo mais do que um "Hello World" (spoiler: já sei)
+
+<br>
+
 ## 🛠️ Tecnologias
 
 ### 📝 Linguagens
@@ -47,6 +57,14 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
 
 <br>
 
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tiaozin&theme=radical&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
 ## 📊 Estatísticas
 
 <div align="center">
@@ -60,12 +78,26 @@ Atualmente, meu foco é continuar desenvolvendo minhas habilidades e transformar
 
 <br>
 
+## 🐍 Atividade recente
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tiaozin/Tiaozin/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br>
+
 ## 📬 Contato
 
 <div align="center">
   <a href="https://github.com/Tiaozin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tiaozin&style=for-the-badge&color=8A2BE2&label=Visitas+no+perfil" />
 </div>
 
 <br>
