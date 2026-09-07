@@ -1,10 +1,4 @@
-# Olá, eu sou Sebastião! 👋
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" />
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20Sebastião!&fontSize=38&fontColor=fff&animation=fadeIn" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=550&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%8E%93;Desenvolvimento+%2B+Hardware+%2B+Banco+de+Dados;Sempre+aprendendo+coisa+nova" /> </div> <br>
 
 <br>
 
@@ -22,7 +16,6 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 
 - 🎓 Cursando Sistemas de Informação no IFMG – Campus São João Evangelista
 - 🌐 Desenvolvendo projetos próprios para colocar em prática o que aprendo
-- ♻️ Já participei do projeto de extensão *"PC Renovado — Inclusão Digital e Reaproveitamento Tecnológico"*
 - 🤖 Tive contato com ensino de programação e robótica em atividades acadêmicas
 - 🎯 Meta: sair da faculdade sabendo mais do que um "Hello World" (spoiler: já sei)
 
@@ -60,34 +53,12 @@ Tenho interesse em continuar aprendendo e transformar os conhecimentos adquirido
 
 <br>
 
-## 📌 Projeto em destaque
+## 📊 Estatísticas que ninguém pediu, mas aqui estão
 
-### 🍰 Confeitaria Açucarada
+</div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiaozin&theme=radical&hide_border=true" /> </div> <br>
 
-Site desenvolvido para uma confeitaria, utilizando HTML, CSS e JavaScript.
 
-- Página inicial com seção de ofertas
-- Menu de navegação e cardápio de bolos
-- Layout responsivo para desktop, tablet e celular
-- Efeitos de interação e rolagem com JavaScript
-- Links para contato/redes sociais
-
-🔗 **[Ver projeto](https://github.com/Tiaozin/Confeitaria-Acucarada)**
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tiaozin&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
 
 ## 📬 Contato
 
-<div align="center">
-  <a href="https://github.com/Tiaozin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/Tiaozin"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sebasti%C3%A3o-marcos-9b2624300/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/tiaoz1n"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
