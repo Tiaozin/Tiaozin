@@ -34,7 +34,11 @@ Atualmente, tenho interesse em continuar desenvolvendo minhas habilidades e tran
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 📌 Projetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiaozin&show_icons=true&theme=tokyonight)
+### 🍰 Confeitaria Açucarada
+
+Site desenvolvido para uma confeitaria, utilizando HTML, CSS e JavaScript.
+
+🔗 [Ver projeto](https://github.com/Tiaozin/Confeitaria-Acucarada)
 
